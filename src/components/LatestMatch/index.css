@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.latestMatchCont {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: indigo;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.matchBasic {
+  width: 35%;
+}
+.latestMatchTeamLogo {
+  width: 100px;
+  height: 100px;
+}
+.matchDetails {
+  width: 35%;
+  text-align: right;
+}

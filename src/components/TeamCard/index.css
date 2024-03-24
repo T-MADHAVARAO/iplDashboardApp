@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.teamCard {
+  color: white;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0.5px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.teamImg {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+.linkCont {
+  width: 30%;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}

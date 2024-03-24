@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.loaderCont {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.teamMatchesBg {
+  background-image: linear-gradient(to bottom, red, black);
+  padding: 20px;
+  color: white;
+}
+.bannerImg {
+  width: 100%;
+}
+.matchesCont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
